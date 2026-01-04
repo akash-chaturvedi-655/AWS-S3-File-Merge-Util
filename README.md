@@ -1,8 +1,8 @@
-# S3 File Merge Utility
+# Distributed S3 stream processing engine
 
 ## Overview
 
-**S3 File Merge Utility** is a high-performance, enterprise-grade data aggregation service designed to consolidate distributed log files and data objects from Amazon Web Services (AWS) S3 buckets. The utility intelligently merges multiple source files into optimized chunks while maintaining data lineage, providing fault tolerance through checkpoint-based resumption, and delivering exceptional throughput through advanced parallel processing.
+**Distributed S3 stream processing engine** is a high-performance, enterprise-grade data aggregation service designed to consolidate distributed log files and data objects from Amazon Web Services (AWS) S3 buckets. The utility intelligently merges multiple source files into optimized chunks while maintaining data lineage, providing fault tolerance through checkpoint-based resumption, and delivering exceptional throughput through advanced parallel processing.
 
 This solution addresses critical operational challenges in managing petabyte-scale data lakes, distributed logging infrastructure, and ETL pipelines requiring high-fidelity data consolidation with minimal infrastructure overhead.
 
